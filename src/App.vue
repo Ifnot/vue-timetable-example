@@ -68,14 +68,14 @@
 
 <style>
   #app {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
-    margin-top: 60px;
+    font-size: 16px;
+    margin: 60px auto auto auto;
     width: 100%;
     max-width: 1080px;
-    margin: auto;
   }
 </style>
