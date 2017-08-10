@@ -1,7 +1,7 @@
 {
-  "name": "vue-timetable-test",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
+  "name": "vue-timetable-example",
+  "description": "An example project showing the usage of vue-timetable.",
+  "version": "1.0.1",
   "author": "Favre Anael <anael.favre@gmail.com>",
   "private": true,
   "scripts": {
